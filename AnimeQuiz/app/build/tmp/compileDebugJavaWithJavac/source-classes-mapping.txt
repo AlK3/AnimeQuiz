@@ -1,0 +1,8 @@
+aik3/game/animequiz/MainFragment.java
+ aik3.game.animequiz.MainFragment
+aik3/game/animequiz/QuizFragment.java
+ aik3.game.animequiz.QuizFragment
+aik3/game/animequiz/BuildConfig.java
+ aik3.game.animequiz.BuildConfig
+aik3/game/animequiz/MainActivity.java
+ aik3.game.animequiz.MainActivity
