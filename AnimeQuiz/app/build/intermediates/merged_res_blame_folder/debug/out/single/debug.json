@@ -70,5 +70,9 @@
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_file_example.ogg.flat",
+        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/file_example.ogg"
     }
 ]
