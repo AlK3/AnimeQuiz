@@ -27,80 +27,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44241815-28f6-44c4-b6bf-41b62b7df085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/file_example.ogg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="44241815-28f6-44c4-b6bf-41b62b7df085" name="Default Changelist" comment="New commit!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/dex_archive_input_jar_hashes/debug/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/+xG6Z0JwFvpby_Nxi3tcm0FTIaw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/0QEUo4iPebiXwwjZkPD+g49y6r0=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/22NmeycmCbwMtiOGspzs_qpmRuw=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/27yQFZyXw4hXnD1Pk_nf5h1m4N0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/27yQFZyXw4hXnD1Pk_nf5h1m4N0=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/422xWuPw+Uyf1St71AMmHx2OBlY=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/422xWuPw+Uyf1St71AMmHx2OBlY=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/4uLRs_rkEPaSW5+F_Qp8LsXOA+c=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/5L4qsFmdmtNURYJ7dAohE02_XJ4=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/5L4qsFmdmtNURYJ7dAohE02_XJ4=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/6eNaHiQzRYaANeJljc31lXr9AYE=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/6eNaHiQzRYaANeJljc31lXr9AYE=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/6xGuN7bPQICwbMzMQvy8JBMX44o=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/7c4v3LUw70LE8dhdHZ7Ny3wxRoE=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/AWT5lxY6BA6iyW8gDoONHJjpXhU=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/AWT5lxY6BA6iyW8gDoONHJjpXhU=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/And9D3gEfbxaGWWOfP1u0P4DVSk=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/And9D3gEfbxaGWWOfP1u0P4DVSk=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/CAXFOETqTcb_f2WKTczGPKAqraA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/CAXFOETqTcb_f2WKTczGPKAqraA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DVcYF8B24KcATfNNEBF0bgiqEFg=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/DVcYF8B24KcATfNNEBF0bgiqEFg=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/Hzk7R76vKW1vA5_I9GPkECOPMEI=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JfSMSt6itMhrNztuPjtUemfQKUU=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/JfSMSt6itMhrNztuPjtUemfQKUU=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/QY+ZlgsyBHSFXHyhS0hH6hWIQv8=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/QY+ZlgsyBHSFXHyhS0hH6hWIQv8=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/VDXCy9ud11Ihrm1NWHpPLJf8TLo=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/VDXCy9ud11Ihrm1NWHpPLJf8TLo=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/WKWbq+vUOVil+LCRUvPcRSIcDvA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/WKWbq+vUOVil+LCRUvPcRSIcDvA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/X2X4CdtSI1Uf0MFGHu13aSEf+OE=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/X2X4CdtSI1Uf0MFGHu13aSEf+OE=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/XtWeaFhwvDNFAXZhPwz2K89IwIc=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/XtWeaFhwvDNFAXZhPwz2K89IwIc=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/ZtDP5k6KEgrqfV7nC13zgTbmRDM=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/_5YLWEjD8f1MSCxbPOQNaScZGQA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/_5YLWEjD8f1MSCxbPOQNaScZGQA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/dqgyQPOhrT71KmHh8y_mu6t8dFA=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/dqgyQPOhrT71KmHh8y_mu6t8dFA=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/gNDgKUHFn0FOS_HU2G3JTsppDx4=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/gNDgKUHFn0FOS_HU2G3JTsppDx4=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/gTXWl2hLQgmisSu9hUDoivuYi_E=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/gTXWl2hLQgmisSu9hUDoivuYi_E=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/h8xL8Fz28BDYYv3qK2DawVL7mQE=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/h8xL8Fz28BDYYv3qK2DawVL7mQE=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/k+9eDjBSPkR12vqeWgkz_+6cKA4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/kObr7AiCqz0Yf_HFZXhwzzjTwNQ=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/kObr7AiCqz0Yf_HFZXhwzzjTwNQ=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/mpd5nzuSgr+i8wWVLWW_5OijBKo=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/mpd5nzuSgr+i8wWVLWW_5OijBKo=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/nI6amO6oj3ime8UPgK2vwMD6l9M=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/nI6amO6oj3ime8UPgK2vwMD6l9M=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/pDW1Jg+xBPx3X_yO_hoZeI7u+v4=" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/s3qnftjHLzM6kde4SFejK3uBRgg=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/s3qnftjHLzM6kde4SFejK3uBRgg=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/sEjrLnM7s4W4XsvrpOfNj4JZKf0=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/sEjrLnM7s4W4XsvrpOfNj4JZKf0=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/vuuIF92iMK+SINJY3bcpNsE+NKM=" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeNativeLibs/zip-cache/vuuIF92iMK+SINJY3bcpNsE+NKM=" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/aik3/game/animequiz/QuizFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/aik3/game/animequiz/QuizFragment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/values-night-v8.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aeff749702c5cd7031efabf1f487588cca73a2e13d56c9ab3fb31e14da36d987_0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aeff749702c5cd7031efabf1f487588cca73a2e13d56c9ab3fb31e14da36d987_1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aeff749702c5cd7031efabf1f487588cca73a2e13d56c9ab3fb31e14da36d987_2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aeff749702c5cd7031efabf1f487588cca73a2e13d56c9ab3fb31e14da36d987_3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aik3/game/animequiz/QuizFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aik3/game/animequiz/QuizFragment.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_fragment_quiz.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_fragment_quiz.xml.flat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/MainFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/MainFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizData.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizFragment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_quiz.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_quiz.xml" afterDir="false" />
     </list>
@@ -109,7 +40,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[34HDU19711000520]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3_XL_API_30]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -224,6 +155,14 @@
       <option name="presentableId" value="Default" />
       <updated>1617034156016</updated>
     </task>
+    <task id="LOCAL-00001" summary="New commit!">
+      <created>1617042262434</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617042262434</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -238,11 +177,15 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="New commit!" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1741" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1617040318158">
+    <state x="1741" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1617100357002">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
-    <state x="1741" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.2488.1053@72.27.2488.1053" timestamp="1617040318158" />
+    <state x="1741" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.2488.1053@72.27.2488.1053" timestamp="1617100357002" />
     <state x="1666" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617040606477">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
@@ -255,22 +198,34 @@
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
     <state x="672" y="311" width="824" height="491" key="AndroidCreateResourceFileDialog/72.27.2488.1053@72.27.2488.1053" timestamp="1617034297587" />
-    <state width="1188" height="231" key="GridCell.Tab.0.bottom" timestamp="1617041226076">
+    <state width="1198" height="231" key="GridCell.Tab.0.bottom" timestamp="1617118586861">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
-    <state width="1188" height="231" key="GridCell.Tab.0.bottom/72.27.2488.1053@72.27.2488.1053" timestamp="1617041226076" />
-    <state width="1188" height="231" key="GridCell.Tab.0.center" timestamp="1617041226075">
+    <state width="1198" height="231" key="GridCell.Tab.0.bottom/72.27.2488.1053@72.27.2488.1053" timestamp="1617118586861" />
+    <state width="1198" height="231" key="GridCell.Tab.0.center" timestamp="1617118586860">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
-    <state width="1188" height="231" key="GridCell.Tab.0.center/72.27.2488.1053@72.27.2488.1053" timestamp="1617041226075" />
-    <state width="1188" height="231" key="GridCell.Tab.0.left" timestamp="1617041226075">
+    <state width="1198" height="231" key="GridCell.Tab.0.center/72.27.2488.1053@72.27.2488.1053" timestamp="1617118586860" />
+    <state width="1198" height="231" key="GridCell.Tab.0.left" timestamp="1617118586860">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
-    <state width="1188" height="231" key="GridCell.Tab.0.left/72.27.2488.1053@72.27.2488.1053" timestamp="1617041226075" />
-    <state width="1188" height="231" key="GridCell.Tab.0.right" timestamp="1617041226076">
+    <state width="1198" height="231" key="GridCell.Tab.0.left/72.27.2488.1053@72.27.2488.1053" timestamp="1617118586860" />
+    <state width="1198" height="231" key="GridCell.Tab.0.right" timestamp="1617118586861">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
-    <state width="1188" height="231" key="GridCell.Tab.0.right/72.27.2488.1053@72.27.2488.1053" timestamp="1617041226076" />
+    <state width="1198" height="231" key="GridCell.Tab.0.right/72.27.2488.1053@72.27.2488.1053" timestamp="1617118586861" />
+    <state x="1528" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1617042299359">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state x="1528" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.2488.1053@72.27.2488.1053" timestamp="1617042299359" />
+    <state x="390" y="311" width="598" height="492" key="refactoring.ChangeSignatureDialog" timestamp="1617117624462">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state x="390" y="311" width="598" height="492" key="refactoring.ChangeSignatureDialog/72.27.2488.1053@72.27.2488.1053" timestamp="1617117624462" />
+    <state x="358" y="252" key="run.anything.popup" timestamp="1617118506718">
+      <screen x="72" y="27" width="2488" height="1053" />
+    </state>
+    <state x="358" y="252" key="run.anything.popup/72.27.2488.1053@72.27.2488.1053" timestamp="1617118506718" />
     <state x="1596" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1617038464662">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
