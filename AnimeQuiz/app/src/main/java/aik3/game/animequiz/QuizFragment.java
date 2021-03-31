@@ -19,6 +19,7 @@ import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.appcompat.app.AlertDialog;
 import androidx.fragment.app.Fragment;
 
 import java.util.Random;
@@ -59,9 +60,8 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
         button3.setOnClickListener(this::onClick);
         button4 = view.findViewById(R.id.imageButton4);
         button4.setOnClickListener(this::onClick);
-        updateImages();
+        updateImages(30);
 
-        time = 30;
         timer = new Timer();
         timer.schedule(
                 new TimerTask() {
@@ -77,7 +77,7 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
                             getActivity().runOnUiThread(() -> {
                                 if (TextUtils.equals("Opening", getArguments().getString("byType")))
                                     player.stop();
-                                Toast.makeText(getContext(), "", Toast.LENGTH_LONG).show();
+                                new AlertDialog.Builder(getContext()).setMessage("Время вышло, ваш счет: " + counter).create().show();
                             });
                             cancel();
                         }
@@ -90,27 +90,39 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onPause() {
         super.onPause();
-        if (TextUtils.equals("Opening", getArguments().getString("byType")))
+        if (TextUtils.equals("Opening", getArguments().getString("byType"))) {
             player.stop();
+            player.release();
+        }
         timer.cancel();
     }
 
     @Override
     public void onClick(View v) {
         QuizData.Title title = (QuizData.Title) v.getTag();
-        if (title.getId() == answer) {
+        if (TextUtils.equals("Opening", getArguments().getString("byType")))
+            player.stop();
+        if (title.getId() != answer)
+            time -= 5;
+        else {
+            time = 30;
             counter++;
             count.setText(String.valueOf(counter));
         }
-        updateImages();
+        updateImages(time);
     }
 
-    private void updateImages() {
+    private void updateImages(int time) {
+        this.time = time;
         button1.setTag(data.getByIndex(random.nextInt(data.getSize())));
+        button1.setImageResource(((QuizData.Title)button1.getTag()).getImage());
         button2.setTag(data.getByIndex(random.nextInt(data.getSize())));
+        button2.setImageResource(((QuizData.Title)button2.getTag()).getImage());
         button3.setTag(data.getByIndex(random.nextInt(data.getSize())));
+        button3.setImageResource(((QuizData.Title)button3.getTag()).getImage());
         button4.setTag(data.getByIndex(random.nextInt(data.getSize())));
-        int i = random.nextInt(5);
+        button4.setImageResource(((QuizData.Title)button4.getTag()).getImage());
+        int i = random.nextInt(4) + 1;
         if (1 == i)
             answer = ((QuizData.Title)button1.getTag()).getId();
         if (2 == i)
