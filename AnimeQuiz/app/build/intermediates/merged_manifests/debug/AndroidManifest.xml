@@ -18,7 +18,9 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.AnimeQuiz" >
-        <activity android:name="aik3.game.animequiz.MainActivity" >
+        <activity
+            android:name="aik3.game.animequiz.MainActivity"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

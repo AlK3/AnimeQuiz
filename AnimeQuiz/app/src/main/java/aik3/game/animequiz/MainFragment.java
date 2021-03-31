@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.CompoundButton;
 import android.widget.Switch;
 
 import androidx.annotation.NonNull;
@@ -25,12 +24,6 @@ public class MainFragment extends Fragment {
         ((Button) view.findViewById(R.id.btnByDescription))
                 .setOnClickListener(Navigation.createNavigateOnClickListener(
                         R.id.quizFragment, setBundle(false)));
-
-        ((Switch) view.findViewById(R.id.switchSetMusic)).setOnCheckedChangeListener((buttonView, isChecked) -> {
-            if (isChecked) {
-
-            }
-        });
         return view;
     }
 

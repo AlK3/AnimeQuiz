@@ -24,12 +24,4 @@
         android:layout_height="wrap_content"
         android:text="@string/by_description" />
 
-    <Switch
-        android:id="@+id/switchSetMusic"
-        android:padding="16dp"
-        android:layout_margin="8dp"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/set_music" />
-
 </LinearLayout>
