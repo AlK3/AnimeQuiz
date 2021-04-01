@@ -105,6 +105,7 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
                             });
                         } else {
                             getActivity().runOnUiThread(() -> {
+                                text.setText("время: " + 0);
                                 if (TextUtils.equals("Opening", getArguments().getString("byType")))
                                     player.stop();
                                 AlertDialog.Builder builder = new AlertDialog.Builder(getContext())
