@@ -1747,6 +1747,7 @@ drawable ve
 drawable vs
 drawable wcaay
 drawable wolf
+font anime_fonts
 id ALT
 id BOTTOM_END
 id BOTTOM_START

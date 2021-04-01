@@ -1,274 +1,278 @@
 [
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_gto.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/gto.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_hmol.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/hmol.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_tg.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/tg.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_pp.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/pp.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_vs.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/vs.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_fragment_quiz_description.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/fragment_quiz_description.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_ms.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/ms.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_kon.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/kon.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_gto.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/gto.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_wcaay.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/wcaay.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_wcaay.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/wcaay.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_mohs.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/mohs.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_hing.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/hing.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_pp.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/pp.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_op.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/op.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_cowboy.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/cowboy.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mohs.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/mohs.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_fragment_quiz_opening.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/fragment_quiz_opening.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_wolf.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/wolf.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_tg.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/tg.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_mia.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/mia.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_ms.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/ms.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_mh.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/mh.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_nhk.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/nhk.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_mia.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/mia.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_codeg.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/codeg.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_dn.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/dn.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_nhk.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/nhk.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mp100.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/mp100.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_asv.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/asv.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_op.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/op.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_tg.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/tg.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_codeg.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/codeg.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_sc.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/sc.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_msr.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/msr.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_cb.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cb.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_asv.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/asv.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_nhk.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/nhk.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/fragment_main.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_wolf.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/wolf.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_mh.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/mh.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_vs.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/vs.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_cg.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/cg.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_cg.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cg.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mohs.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/mohs.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_rect_line.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/rect_line.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_codeg.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/codeg.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mia.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/mia.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_codeg.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/codeg.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_dn.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/dn.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_pp.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/pp.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_cb.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cb.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_hing.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/hing.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_kon.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/kon.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_dn.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/dn.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_hh.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/hh.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_op.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/op.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_mia.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/mia.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_op.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/op.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mh.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/mh.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_wolf.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/wolf.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_ve.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/ve.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_tg.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/tg.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_file_example.ogg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/file_example.ogg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mp100.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/mp100.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_asv.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/asv.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_dn.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/dn.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_fragment_quiz_description.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/fragment_quiz_description.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_fragment_main.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/fragment_main.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_pp.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/pp.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_asv.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/asv.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_nhk.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/nhk.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_vs.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/vs.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_mohs.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/mohs.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_file_example.ogg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/file_example.ogg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_wolf.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/wolf.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_rect_line.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/rect_line.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/navigation_graph.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/navigation/graph.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_msr.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/msr.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_sc.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/sc.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/navigation_graph.xml.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/navigation/graph.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/layout_fragment_quiz_opening.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/layout/fragment_quiz_opening.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_msr.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/msr.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_ve.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/ve.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_ms.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/ms.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_hing.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/hing.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_cg.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/cg.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_cg.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cg.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_msr.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/msr.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_gto.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/gto.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_hh.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/hh.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_hh.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/hh.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_wcaay.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/wcaay.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_ms.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/ms.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_hh.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/hh.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_mh.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/mh.mp3"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_hing.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/hing.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_hmol.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/hmol.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_ve.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/ve.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/font_anime_fonts.ttf.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/font/anime_fonts.ttf"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable_sc.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable/sc.jpg"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_ve.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/ve.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_cowboy.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/cowboy.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_sc.jpg.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/sc.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_vs.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/vs.mp3"
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_gto.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/gto.mp3"
+    },
+    {
+        "merged": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_wcaay.mp3.flat",
+        "source": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/wcaay.mp3"
     }
 ]

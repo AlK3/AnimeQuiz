@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
 MERGED from [androidx.navigation:navigation-ui:2.3.4] /home/worker/.gradle/caches/transforms-2/files-2.1/e86e09275252e593849731a82eb201cd/navigation-ui-2.3.4/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.3.0] /home/worker/.gradle/caches/transforms-2/files-2.1/723282c7994550298e26d567cb0e519b/material-1.3.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/worker/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
@@ -42,25 +42,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/worker/.gradle/c
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/worker/.gradle/caches/transforms-2/files-2.1/55aabb19ce510e0f34e274c3a1923b82/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/worker/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/worker/.gradle/caches/transforms-2/files-2.1/adf8d4ec58c98f5b37616cb4b06b74f4/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
 	package
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:3:5-34
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:5:5-19:19
+ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:5:5-19:19
 MERGED from [com.google.android.material:material:1.3.0] /home/worker/.gradle/caches/transforms-2/files-2.1/723282c7994550298e26d567cb0e519b/material-1.3.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] /home/worker/.gradle/caches/transforms-2/files-2.1/723282c7994550298e26d567cb0e519b/material-1.3.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/worker/.gradle/caches/transforms-2/files-2.1/9570f34841c72a34d773388f89286f55/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
@@ -72,37 +72,37 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/worke
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.3.1] /home/worker/.gradle/caches/transforms-2/files-2.1/b234a824af7fd98a5c54fc0522824a91/core-1.3.1/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:9:9-54
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:11:9-47
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:11:9-47
 activity#aik3.game.animequiz.MainActivity
-ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:9-18:20
+ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:9-18:20
 	android:screenOrientation
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:48-84
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:48-84
 	android:name
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:19-47
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:13:13-17:29
+ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:17-69
+ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:25-66
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:17-77
+ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:27-74
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:27-74
 uses-sdk
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.3.4] /home/worker/.gradle/caches/transforms-2/files-2.1/e86e09275252e593849731a82eb201cd/navigation-ui-2.3.4/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.navigation:navigation-ui:2.3.4] /home/worker/.gradle/caches/transforms-2/files-2.1/e86e09275252e593849731a82eb201cd/navigation-ui-2.3.4/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.android.material:material:1.3.0] /home/worker/.gradle/caches/transforms-2/files-2.1/723282c7994550298e26d567cb0e519b/material-1.3.0/AndroidManifest.xml:20:5-44
@@ -179,13 +179,13 @@ MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/worker/.gradle/caches/
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/worker/.gradle/caches/transforms-2/files-2.1/a6ca4f9f3ef5bd7ddcaac8d3ff2baf6c/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/worker/.gradle/caches/transforms-2/files-2.1/adf8d4ec58c98f5b37616cb4b06b74f4/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] /home/worker/.gradle/caches/transforms-2/files-2.1/adf8d4ec58c98f5b37616cb4b06b74f4/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		ADDED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
-		INJECTED from /home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		ADDED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml
