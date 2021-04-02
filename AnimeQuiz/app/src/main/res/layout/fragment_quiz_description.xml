@@ -140,6 +140,7 @@
         android:textStyle="bold"
         android:padding="16dp"
         android:layout_margin="8dp"
+        android:scrollbars = "vertical"
         android:background="@drawable/rect_line"
         android:id="@+id/textDescription"
         android:textColor="@color/black"
@@ -149,5 +150,7 @@
     <Space
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
+
+
 
 </LinearLayout>

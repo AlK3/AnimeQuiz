@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
             "map": [
                 {
                     "source": "/home/worker/.gradle/caches/transforms-2/files-2.1/0cb9ff486f5edb59977e253831b932c8/appcompat-1.2.0/res/values-v25/values-v25.xml",

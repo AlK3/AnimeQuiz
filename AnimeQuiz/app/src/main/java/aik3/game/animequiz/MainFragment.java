@@ -20,19 +20,25 @@ public class MainFragment extends Fragment {
         View view = inflater.inflate(R.layout.fragment_main, container, false);
         ((Button) view.findViewById(R.id.btnByOpening))
                 .setOnClickListener(Navigation.createNavigateOnClickListener(
-                        R.id.quizFragment,setBundle(true)));
+                        R.id.quizFragment, setBundle(1)));
         ((Button) view.findViewById(R.id.btnByDescription))
                 .setOnClickListener(Navigation.createNavigateOnClickListener(
-                        R.id.quizFragment, setBundle(false)));
+                        R.id.quizFragment, setBundle(2)));
+        ((Button) view.findViewById(R.id.btnByEnding))
+                .setOnClickListener(Navigation.createNavigateOnClickListener(
+                        R.id.quizFragment, setBundle(3)));
         return view;
     }
 
 
-    private @NonNull Bundle setBundle(boolean byOpening) {
+    private @NonNull Bundle setBundle(int type) {
         Bundle bundle = new Bundle();
-        if (true == byOpening)
+        if (1 == type)
             bundle.putString("byType", "Opening");
-        else bundle.putString("byType", "Description");
+        if (2 == type)
+            bundle.putString("byType", "Description");
+        if (3 == type)
+            bundle.putString("byType", "Ending");
         return bundle;
     }
 }

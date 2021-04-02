@@ -3,4 +3,5 @@
     <string name="set_music">Добавить фоновую музыку</string>
     <string name="by_description">По Описанию</string>
     <string name="by_opening">По Опенингу</string>
+    <string name="by_ending">По эндингу</string>
 </resources>

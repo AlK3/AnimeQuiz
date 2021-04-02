@@ -4,6 +4,7 @@ import android.media.MediaPlayer;
 import android.net.Uri;
 import android.os.Bundle;
 import android.text.TextUtils;
+import android.text.method.ScrollingMovementMethod;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -53,8 +54,9 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
             }
         });
 
-        if (TextUtils.equals("Opening", getArguments().getString("byType")))
-            view = inflater.inflate(R.layout.fragment_quiz_opening, container, false);
+        if (TextUtils.equals("Opening", getArguments().getString("byType"))
+                | TextUtils.equals("Ending", getArguments().getString("byType")))
+            view = inflater.inflate(R.layout.fragment_quiz_op_end, container, false);
         else view = inflater.inflate(R.layout.fragment_quiz_description, container, false);
         TextView text = view.findViewById(R.id.textView);
         count = view.findViewById(R.id.textView3);
@@ -67,7 +69,8 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
         btnOp3 = view.findViewById(R.id.imageView3);
         btnOp4 = view.findViewById(R.id.imageView4);
 
-        if (TextUtils.equals("Opening", getArguments().getString("byType"))) {
+        if (TextUtils.equals("Opening", getArguments().getString("byType"))
+                | TextUtils.equals("Ending", getArguments().getString("byType"))) {
             btnOp1.setOnClickListener(this::onClick);
             btnOp2.setOnClickListener(this::onClick);
             btnOp3.setOnClickListener(this::onClick);
@@ -106,7 +109,8 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
                         } else {
                             getActivity().runOnUiThread(() -> {
                                 text.setText("время: " + 0);
-                                if (TextUtils.equals("Opening", getArguments().getString("byType")))
+                                if (TextUtils.equals("Opening", getArguments().getString("byType"))
+                                        | TextUtils.equals("Ending", getArguments().getString("byType")))
                                     player.stop();
                                 AlertDialog.Builder builder = new AlertDialog.Builder(getContext())
                                         .setMessage("Время вышло, ваш счет: " + counter)
@@ -134,7 +138,8 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onPause() {
         super.onPause();
-        if (TextUtils.equals("Opening", getArguments().getString("byType"))) {
+        if (TextUtils.equals("Opening", getArguments().getString("byType"))
+                | TextUtils.equals("Ending", getArguments().getString("byType"))) {
             player.stop();
             player.release();
         }
@@ -144,7 +149,8 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
     @Override
     public void onClick(View v) {
         QuizData.Title title = (QuizData.Title) v.getTag();
-        if (TextUtils.equals("Opening", getArguments().getString("byType")))
+        if (TextUtils.equals("Opening", getArguments().getString("byType"))
+                | TextUtils.equals("Ending", getArguments().getString("byType")))
             player.stop();
         if (title.getId() != answer)
             time -= 5;
@@ -201,8 +207,13 @@ public class QuizFragment extends Fragment implements View.OnClickListener {
             player = MediaPlayer.create(getContext(), Uri.parse(data.getByIndex(answer).getOpening()));
             player.start();
         }
+        if (TextUtils.equals("Ending", getArguments().getString("byType"))) {
+            player = MediaPlayer.create(getContext(), Uri.parse(data.getByIndex(answer).getEnding()));
+            player.start();
+        }
         if (TextUtils.equals("Description", getArguments().getString("byType"))) {
             description.setText(data.getByIndex(answer).getDescription());
+            description.setMovementMethod(new ScrollingMovementMethod());
         }
     }
 }
