@@ -25,26 +25,25 @@
 17-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:9:9-54
 18        android:supportsRtl="true"
 18-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:10:9-35
-19        android:testOnly="true"
-20        android:theme="@style/Theme.AnimeQuiz" >
-20-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:11:9-47
-21        <activity
-21-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:9-18:20
-22            android:name="aik3.game.animequiz.MainActivity"
-22-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:19-47
-23            android:screenOrientation="portrait" >
-23-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:48-84
-24            <intent-filter>
-24-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:13:13-17:29
-25                <action android:name="android.intent.action.MAIN" />
-25-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:17-69
-25-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:25-66
-26
-27                <category android:name="android.intent.category.LAUNCHER" />
-27-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:17-77
-27-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:27-74
-28            </intent-filter>
-29        </activity>
-30    </application>
-31
-32</manifest>
+19        android:theme="@style/Theme.AnimeQuiz" >
+19-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:11:9-47
+20        <activity
+20-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:9-18:20
+21            android:name="aik3.game.animequiz.MainActivity"
+21-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:19-47
+22            android:screenOrientation="portrait" >
+22-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:12:48-84
+23            <intent-filter>
+23-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:13:13-17:29
+24                <action android:name="android.intent.action.MAIN" />
+24-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:17-69
+24-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:14:25-66
+25
+26                <category android:name="android.intent.category.LAUNCHER" />
+26-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:17-77
+26-->/home/worker/HDD/AnimeQuiz/AnimeQuiz/app/src/main/AndroidManifest.xml:16:27-74
+27            </intent-filter>
+28        </activity>
+29    </application>
+30
+31</manifest>
