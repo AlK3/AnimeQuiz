@@ -88,12 +88,12 @@
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/ve.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_ch_e.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/ch_e.mp3"
-    },
-    {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_vs_e.mp3.flat",
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/vs_e.mp3"
+    },
+    {
+        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_ch_e.mp3.flat",
+        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/ch_e.mp3"
     },
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_cg_e.mp3.flat",
@@ -104,24 +104,24 @@
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cg.jpg"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_nhk_e.mp3.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/nhk_e.mp3"
+        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_dn.jpg.flat",
+        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/dn.jpg"
     },
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_dn.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/dn.jpg"
-    },
-    {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_cb.jpg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cb.jpg"
+        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_nhk_e.mp3.flat",
+        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/nhk_e.mp3"
     },
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_sg.mp3.flat",
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/sg.mp3"
+    },
+    {
+        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_cb.jpg.flat",
+        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/drawable-v24/cb.jpg"
     },
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_kon.jpg.flat",
@@ -146,10 +146,6 @@
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/raw_file_example.ogg.flat",
-        "source": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/src/main/res/raw/file_example.ogg"
     },
     {
         "merged": "/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/res/merged/debug/drawable-v24_mp100.jpg.flat",

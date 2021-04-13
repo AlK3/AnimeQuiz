@@ -2352,7 +2352,6 @@ raw cowboy
 raw cowboy_e
 raw dn
 raw dn_e
-raw file_example
 raw gto
 raw gto_e
 raw hh
