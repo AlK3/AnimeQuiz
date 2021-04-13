@@ -1708,11 +1708,9 @@ drawable material_ic_keyboard_arrow_previous_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
-drawable mia
 drawable mohs
 drawable mp100
 drawable ms
-drawable msr
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -2353,11 +2351,14 @@ raw codeg_e
 raw cowboy
 raw cowboy_e
 raw dn
+raw dn_e
 raw file_example
 raw gto
 raw gto_e
 raw hh
+raw hh_e
 raw hing
+raw hing_e
 raw kon
 raw kon_e
 raw mia

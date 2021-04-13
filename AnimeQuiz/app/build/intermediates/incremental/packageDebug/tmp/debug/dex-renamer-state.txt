@@ -1,4 +1,4 @@
-#Fri Apr 02 18:49:22 VLAT 2021
+#Tue Apr 13 23:54:01 VLAT 2021
 base.0=/home/worker/AndroidStudioProjects/AnimeQuiz/AnimeQuiz/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

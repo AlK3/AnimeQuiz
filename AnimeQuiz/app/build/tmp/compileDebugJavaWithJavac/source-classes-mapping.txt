@@ -1,5 +1,6 @@
 aik3/game/animequiz/MainFragment.java
  aik3.game.animequiz.MainFragment
+ aik3.game.animequiz.MainFragment$1
 aik3/game/animequiz/QuizFragment.java
  aik3.game.animequiz.QuizFragment
  aik3.game.animequiz.QuizFragment$1
