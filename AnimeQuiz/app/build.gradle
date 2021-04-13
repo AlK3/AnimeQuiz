@@ -3,6 +3,14 @@ plugins {
 }
 
 android {
+    signingConfigs {
+        release {
+            storeFile file('/home/worker/Рабочий стол/keys.jks')
+            keyPassword 'qwertyUI'
+            storePassword 'qwertyUI'
+            keyAlias 'AnimeQuiz'
+        }
+    }
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
 
