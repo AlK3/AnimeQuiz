@@ -28,6 +28,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44241815-28f6-44c4-b6bf-41b62b7df085" name="Default Changelist" comment="New commit!">
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.5/fileHashes/fileHashes.bin" afterDir="false" />
@@ -46,15 +47,21 @@
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/androidResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/multi-v2/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/aik3/game/animequiz/QuizFragment.class" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/javac/debug/classes/aik3/game/animequiz/QuizFragment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest_merge_blame_file/debug/manifest-merger-blame-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifest/debug/out/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/merged_res_blame_folder/debug/out/single/debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/packaged_manifests/debug/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/processed_res/debug/out/resources-debug.ap_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aik3/game/animequiz/QuizFragment.dex" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/project_dex_archive/debug/out/aik3/game/animequiz/QuizFragment.dex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/runtime_symbol_list/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/intermediates/symbol_list_with_package_name/debug/package-aware-r.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/tmp/compileDebugJavaWithJavac/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizData.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/aik3/game/animequiz/QuizData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/raw/file_example.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +111,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/raw" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="project.structure.last.edited" value="Build Variants" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -117,9 +124,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
-      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
       <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable-v24" />
+      <recent name="$PROJECT_DIR$/app/src/main/res/raw" />
       <recent name="$PROJECT_DIR$/app/src/main/res/font" />
     </key>
   </component>
@@ -249,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618326182962</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="New commit!">
+      <created>1618327243974</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1618327243974</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -285,11 +299,11 @@
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
     <state x="1741" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.2488.1053@72.27.2488.1053" timestamp="1617197858341" />
-    <state x="1666" y="302" width="380" height="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618321784324">
+    <state x="1666" y="302" width="380" height="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618328355826">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
     <state x="898" y="221" width="380" height="359" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.27.1302.741/1366.0.1920.1080@64.27.1302.741" timestamp="1617252509748" />
-    <state x="1666" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.2488.1053@72.27.2488.1053" timestamp="1618321784324" />
+    <state x="1666" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/72.27.2488.1053@72.27.2488.1053" timestamp="1618328355826" />
     <state x="378" y="227" width="824" height="491" key="AndroidCreateResourceDirectoryDialog" timestamp="1617253828079">
       <screen x="64" y="27" width="1302" height="741" />
     </state>
@@ -332,15 +346,16 @@
     <state width="1810" height="275" key="GridCell.Tab.0.right/64.27.1302.741/1366.0.1920.1080@64.27.1302.741" timestamp="1617249418535" />
     <state width="1833" height="275" key="GridCell.Tab.0.right/64.27.1856.1053@64.27.1856.1053" timestamp="1617326041585" />
     <state width="1198" height="277" key="GridCell.Tab.0.right/72.27.2488.1053@72.27.2488.1053" timestamp="1618326883174" />
-    <state x="1528" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1618326188335">
+    <state x="1528" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1618327246575">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
     <state x="2476" y="269" width="800" height="535" key="Vcs.Push.Dialog.v2/64.27.1302.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1617320695185" />
-    <state x="1528" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.2488.1053@72.27.2488.1053" timestamp="1618326188335" />
-    <state x="764" y="333" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1617323689390">
-      <screen x="64" y="27" width="1856" height="1053" />
+    <state x="1528" y="289" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.2488.1053@72.27.2488.1053" timestamp="1618327246575" />
+    <state x="1010" y="333" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1618328323061">
+      <screen x="72" y="27" width="2488" height="1053" />
     </state>
     <state x="764" y="333" width="446" height="447" key="chooseDestDirectoryDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1617323689390" />
+    <state x="1010" y="333" key="chooseDestDirectoryDialog/72.27.2488.1053@72.27.2488.1053" timestamp="1618328323061" />
     <state x="-441" y="292" width="978" height="660" key="dock-window-1" timestamp="1618327004702">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
@@ -350,10 +365,10 @@
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
     <state x="390" y="311" width="598" height="492" key="refactoring.ChangeSignatureDialog/72.27.2488.1053@72.27.2488.1053" timestamp="1617117624462" />
-    <state x="358" y="252" key="run.anything.popup" timestamp="1617196339596">
+    <state x="358" y="252" key="run.anything.popup" timestamp="1618328519639">
       <screen x="72" y="27" width="2488" height="1053" />
     </state>
-    <state x="358" y="252" key="run.anything.popup/72.27.2488.1053@72.27.2488.1053" timestamp="1617196339596" />
+    <state x="358" y="252" key="run.anything.popup/72.27.2488.1053@72.27.2488.1053" timestamp="1618328519639" />
     <state x="2542" y="238" width="672" height="696" key="search.everywhere.popup" timestamp="1617166042334">
       <screen x="1366" y="0" width="1920" height="1080" />
     </state>
