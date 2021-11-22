@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:textSize="24dp"
+        android:padding="32dp"
+        android:gravity="center"
+        android:textColor="#ab4e59"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Аниме Викторина"
+        android:fontFamily="@font/anime_fonts">
+
+    </TextView>
+
+    <Button
+        android:textSize="18dp"
+        android:padding="16dp"
+        android:layout_margin="8dp"
+        android:id="@+id/btnByOpening"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/by_opening" />
+
+    <Button
+        android:textSize="18dp"
+        android:padding="16dp"
+        android:layout_margin="8dp"
+        android:id="@+id/btnByDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/by_description" />
+
+    <Button
+        android:textSize="18dp"
+        android:padding="16dp"
+        android:layout_margin="8dp"
+        android:id="@+id/btnByEnding"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/by_ending" />
+
+</LinearLayout>
